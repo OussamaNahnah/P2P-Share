@@ -1,6 +1,6 @@
 ## P2P-Share
 
-An Android application that works with a party-to-party protocol, allowing file sharing within an internal network and updating person-to-person or within a group.
+An Android application that works with a P2P protocol, allowing file sharing within an internal network and updating person-to-person or within a group.
 One of the drawbacks of the application is that it uses a lot of ports, in addition to that it needs a state manager
 
 ## Tools used
